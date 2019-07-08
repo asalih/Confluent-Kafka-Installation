@@ -1,5 +1,6 @@
 # Confluent - Kafka
 
+## Default Installation
 Install JRE/JDK  
 sudo apt install openjdk-8-jre-headless
 
@@ -12,3 +13,4 @@ cd /usr/bin
 ./confluent start
 ```
 
+## Settings with SASL
