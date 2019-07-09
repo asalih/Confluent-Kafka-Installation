@@ -18,7 +18,7 @@ cd /usr/bin
 ## SASL Settings
 The '.properties' files of the kafka's and zookeeper's are under the '/etc/kafka'.  
 Backup default settings and put the .properties and .jaas files to the '/etc/kafka'.  
-Put the zookeeper-starter.sh and kafka-starter.sh to the '/usr/bin'. You may need to edit for properties and jaas files path.  
+Put the zookeeper-starter.sh and kafka-starter.sh to the '/usr/bin'. You may need to edit the files for paths of properties and jaas files.  
 To start zookeeper; 
 ```sh
 cd /usr/bin
